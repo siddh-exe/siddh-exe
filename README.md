@@ -29,9 +29,6 @@ Welcome to my GitHub profile! I'm passionate about building practical applicatio
 ## 📌 Featured Projects
 
 * 🎵 **Java Music Player** – Play songs, create playlists, login system
-* 📝 **Local Business Directory** – Database-driven info system with multiple categories
-* 🕹️ **Flappy Bird (Java Game)** – Simple GUI-based game
-* 📱 **Health & Diet App (Python)** – Manage diet plans for different goals
 * 📂 **Chat Messenger App (Java)** – With individual chats & file transfer (in progress)
 
 ---
