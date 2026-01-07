@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about building practical applicatio
 
 ## 🚀 About Me
 
-* 🎓 SYBBA(CA) student with strong interest in software development
+* 🎓 BBA(CA) student with strong interest in software development
 * 💡 Experienced in **Java**, working on multiple Java-based projects
 * 🖥️ Recently exploring **Node.js, React.js, Express.js, MongoDB**
 * ⚙️ Love building real-world projects like games, music players, business directories, and health apps
